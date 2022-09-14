@@ -1,0 +1,33 @@
+@media screen and (max-width:1000px) {
+    
+
+
+
+.apple{
+    width:50%;
+    height:800px;
+    background-image:url(https://img.favpng.com/10/14/22/purple-desktop-wallpaper-blue-color-wallpaper-png-favpng-1QZUn0FbBGx7GVLMMnagpz5vB.jpg);
+   
+   
+}
+
+img {
+    width:50%;
+   height: 300px;
+   padding: 10px;
+   background-color:gold;
+   border-radius: 50%;
+}
+
+
+h1{
+    
+    color:white;
+    background-color: blue;
+    border-radius:20px;
+}
+.banana{
+    font-size: 30px;
+    color:#008080;
+}
+}
